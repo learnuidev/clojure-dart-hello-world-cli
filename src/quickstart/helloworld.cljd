@@ -1,0 +1,4 @@
+(ns quickstart.helloworld)
+
+(defn main []
+  (print "hello, world\n"))
