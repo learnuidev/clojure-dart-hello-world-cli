@@ -1,4 +1,4 @@
 (ns quickstart.helloworld)
 
 (defn main []
-  (print "hello, world\n"))
+  (println (str "1 + 1 = " (+ 1 10))))
